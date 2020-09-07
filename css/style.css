@@ -1,0 +1,7 @@
+/* Fixed #65279 invisible text :| */
+body {
+font-family: 'Niramit', sans-serif;
+}
+.navbar{
+    margin-bottom: 2em;
+}
